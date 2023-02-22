@@ -9,7 +9,7 @@ HOST = "10.216.49.111"
 PORT = 62996
 
 print(HOST)
-
+#riwaj is a dumbass
 
 class Client:
 
